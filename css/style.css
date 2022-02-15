@@ -23,17 +23,23 @@ body{
     color: white;
 }
  section#jumbatron{
-     height: calc(100vh - 96px); 
+    height: calc(100vh - 96px); 
     background-image:url(../img/jumbo-bg.png);
-    background-size: cover;
+    background-size: cover;   
 } 
+.jumbo{
+    background-size: cover;
+     height: 100%; 
+  
+}
+ 
  .hero {
     height: 50px;
 }
 .giochi{
-    height: 100px;
+    width: 100%;
     border-radius: 10px;
 }
 .ps5{
-    height: 600px;
+    width: 100%;
 }
