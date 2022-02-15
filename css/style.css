@@ -14,3 +14,26 @@ body{
 .sony-logo{
     height: 30px;
 }
+.btn-buy{
+    background-color: red;
+    color: white;
+}
+.btn-informazioni{
+    background-color: blue;
+    color: white;
+}
+ section#jumbatron{
+     height: calc(100vh - 96px); 
+    background-image:url(../img/jumbo-bg.png);
+    background-size: cover;
+} 
+ .hero {
+    height: 50px;
+}
+.giochi{
+    height: 100px;
+    border-radius: 10px;
+}
+.ps5{
+    height: 600px;
+}
