@@ -28,10 +28,17 @@ body{
     height: 100%; 
 
 } */
-.box{
+#jumbotron {
    height: calc(100vh - 96px); 
    background-size: cover;
    background-image: url(../img/jumbo-bg.png);
+   background-position: center;
+
+}
+.misure{
+    margin-top: 5rem;
+    padding: 17rem 0 5rem;
+    
 }
   .immagini{
     width: 100%;
