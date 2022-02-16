@@ -22,17 +22,21 @@ body{
     background-color: blue;
     color: white;
 }
- section#jumbatron{
-    height: calc(100vh - 96px); 
-    background-image:url(../img/jumbo-bg.png);
-    background-size: cover;   
-} 
-.jumbo{
-    background-size: cover;
-     height: 100%; 
-  
+
+/* .jumbo{
+    
+    height: 100%; 
+
+} */
+.box{
+   height: calc(100vh - 96px); 
+   background-size: cover;
+   background-image: url(../img/jumbo-bg.png);
 }
- 
+  .immagini{
+    width: 100%;
+    
+ } 
  .hero {
     height: 50px;
 }
@@ -43,3 +47,7 @@ body{
 .ps5{
     width: 100%;
 }
+/* 
+@media screen and { (max-width: 576px;
+    
+} */
