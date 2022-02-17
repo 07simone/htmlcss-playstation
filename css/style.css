@@ -75,10 +75,17 @@ body{
     background-color: grey;
 }
 .my-bc-color-3{
-    background-color: rgb(0, 20, 133);
+    background-color: rgb(3, 13, 66);
+}
+.my-bc-color-4{
+    background-color: rgba(1, 58, 245, 0.664);
+    
+}
+.liste{
+    list-style-type: none;
 }
 #banner{
-    height: 100vh;
+   
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
     background-size: cover;
     background-position: center;
