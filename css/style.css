@@ -74,6 +74,11 @@ body{
 .ps5{
     width: 100%;
 }
+
+ .card:hover{
+    transform:scale3d(1.1, 1.1,0.1);
+    cursor: pointer;
+}
 .my-bc-color{
     background-color: rgb(58, 54, 54);
 }
