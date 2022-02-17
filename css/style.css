@@ -44,7 +44,7 @@ body{
 
 } */
 #jumbotron {
-    height: calc(80vh - 96px);  
+    
     background-size: cover;
     background-image: url(../img/jumbo-bg.png);
     background-position: center;
@@ -59,24 +59,29 @@ body{
 .dimensioni{
     padding: 15rem  5rem
 }
-
+.opacity-75:hover{
+cursor: pointer;
+opacity: (1);
+border-bottom: 2px solid blue;
+transform:scale3d(1.1, 1.1,0.1);
+}
 
  .hero {
     width: 200px;
 }
 .giochi{
-    width: 70%;
+    width: 80%;
     border-radius: 10px;
 }
 .ps5{
-    width: 60%;
+    width: 50%;
 }
 
  .card:hover{
     transform:scale3d(1.1, 1.1,0.1);
     cursor: pointer;
     border: 2px solid blue;
-}
+} 
 
 
 .my-bc-color{
