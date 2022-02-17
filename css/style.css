@@ -14,6 +14,9 @@ body{
 .sony-logo{
     height: 30px;
 }
+.sony-logo-2{
+    height: 100px;
+}
 .btn-buy{
     background-color: red;
     color: white;
@@ -22,7 +25,10 @@ body{
     background-color: blue;
     color: white;
 }
+.svg{
+    filter: contrast(15%) brightness(300%);
 
+}
 .btn-esplora{
     background-color: rgb(180, 175, 175);
     color: blue;
