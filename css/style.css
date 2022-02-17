@@ -60,25 +60,25 @@ body{
     padding: 15rem  5rem
 }
 
-.immagini{
-    width: 100%;
-    
- }  
+
  .hero {
     width: 200px;
 }
 .giochi{
-    width: 100%;
+    width: 70%;
     border-radius: 10px;
 }
 .ps5{
-    width: 100%;
+    width: 60%;
 }
 
  .card:hover{
     transform:scale3d(1.1, 1.1,0.1);
     cursor: pointer;
+    border: 2px solid blue;
 }
+
+
 .my-bc-color{
     background-color: rgb(58, 54, 54);
 }
