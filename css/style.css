@@ -67,7 +67,7 @@ transform:scale3d(1.1, 1.1,0.1);
 }
 
  .hero {
-    width: 200px;
+    width: 50%;
 }
 .giochi{
     width: 80%;
@@ -99,6 +99,7 @@ transform:scale3d(1.1, 1.1,0.1);
 }
 .liste{
     list-style-type: none;
+    line-height: 40px;
 }
 #banner{
    
