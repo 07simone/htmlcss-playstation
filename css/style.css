@@ -78,7 +78,9 @@ transform:scale3d(1.1, 1.1,0.1);
 .ps5{
     width: 50%;
 }
-
+.dropdown-item{
+    z-index: 1;
+}
  .card:hover{
     transform:scale3d(1.1, 1.1,0.1);
     cursor: pointer;
