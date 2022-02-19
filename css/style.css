@@ -1,3 +1,6 @@
+
+
+
 .header-top{
     background-color: black;
 }
@@ -59,9 +62,8 @@ body{
 .dimensioni{
     padding: 15rem  5rem
 }
-.opacity-75:hover{
+.console:hover{
 cursor: pointer;
-opacity: (1);
 border-bottom: 2px solid blue;
 transform:scale3d(1.1, 1.1,0.1);
 }
@@ -94,7 +96,7 @@ transform:scale3d(1.1, 1.1,0.1);
     background-color: rgb(3, 13, 66);
 }
 .my-bc-color-4{
-    background-color: rgba(1, 58, 245, 0.664);
+    background-color: #00439c;
     
 }
 .liste{
@@ -111,3 +113,10 @@ transform:scale3d(1.1, 1.1,0.1);
     width: 60%;
     
 }
+.sony-logo-2{
+    height: 3rem;
+}
+.my-region{
+    height: 2rem;
+}
+
